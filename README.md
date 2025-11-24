@@ -129,6 +129,3 @@ The following screenshots were provided with this repository and are included he
 
 
 
-=======
-# Supply-chain-and-inventory-optimization-dashboard-using-power-BI
->>>>>>> e340b3fb20bda0ee93dfa6e16b8428477b63e3d1
